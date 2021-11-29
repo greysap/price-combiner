@@ -3,7 +3,7 @@ package house.greysap;
 import java.util.Date;
 
 /**
- * full javadoc
+ * a full javadoc
  */
 public class Price {
     @Override
