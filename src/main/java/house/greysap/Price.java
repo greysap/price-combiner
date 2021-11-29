@@ -82,9 +82,9 @@ public class Price {
         this.end = end;
     }
 
-//    public long getValue() {
-//        return value;
-//    }
+    public long getValue() {
+        return value;
+    }
 
     @Override
     public boolean equals(Object o) {
