@@ -2,6 +2,9 @@ package house.greysap;
 
 import java.util.Date;
 
+/**
+ * javadoc
+ */
 public class Price {
     @Override
     public String toString() {
