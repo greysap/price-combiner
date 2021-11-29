@@ -54,36 +54,16 @@ public class Price {
         this.value = value;
     }
 
-    public long getId() {
-        return id;
-    }
-
-    public void setId(long id) {
-        this.id = id;
-    }
-
     public String getProductCode() {
         return productCode;
-    }
-
-    public void setProductCode(String productCode) {
-        this.productCode = productCode;
     }
 
     public int getNumber() {
         return number;
     }
 
-    public void setNumber(int number) {
-        this.number = number;
-    }
-
     public int getDepart() {
         return depart;
-    }
-
-    public void setDepart(int depart) {
-        this.depart = depart;
     }
 
     public java.util.Date getBegin() {
@@ -104,10 +84,6 @@ public class Price {
 
     public long getValue() {
         return value;
-    }
-
-    public void setValue(long value) {
-        this.value = value;
     }
 
     @Override
