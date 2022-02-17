@@ -2,6 +2,9 @@ package house.greysap;
 
 import java.util.*;
 
+/**
+ * javadoc
+ */
 public class PriceCombiner {
 
     public static Set<Price> combinePrices(Set<Price> currentPrices, Set<Price> newPrices) {
