@@ -9,7 +9,6 @@ import java.util.Set;
 
 import static org.junit.Assert.*;
 
-//
 public class PriceCombinerTest {
     private static final String DATE_FORMAT = "dd.MM.yyyy HH:mm:ss";
 
